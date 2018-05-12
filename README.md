@@ -1,6 +1,6 @@
 # 抓取淘女郎图片的简单爬虫
 
-这是一个示例爬虫，用于博文[python爬虫入门教程(三)：淘女郎爬虫 ( 接口解析 | 图片下载 )](https://blog.csdn.net/aaronjny/article/details/80291997)的延时与讲解。
+这是一个示例爬虫，用于博文[python爬虫入门教程(三)：淘女郎爬虫 ( 接口解析 | 图片下载 )](https://blog.csdn.net/aaronjny/article/details/80291997)的演示与讲解。
 
 此爬虫用于采集淘女郎的图片信息，具有如下功能：
 
